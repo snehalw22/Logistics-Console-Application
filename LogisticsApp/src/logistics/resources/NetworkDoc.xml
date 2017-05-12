@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NetworkContent>
+	<Network facilityName='Seattle, WA'>
+		<Neighbor>
+		 <neighborName>Fargo, ND</neighborName>
+			<distance>1426</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>San Francisco, CA</neighborName>
+			<distance>808</distance>
+		</Neighbor>
+	</Network>
+	
+	
+	<Network facilityName='San Francisco, CA'>
+		<Neighbor>
+		 <neighborName>Seattle, WA</neighborName>
+			<distance>808</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Denver, CO</neighborName>
+			<distance>1249</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Los Angeles, CA</neighborName>
+			<distance>382</distance>
+		</Neighbor>
+	</Network>
+	
+	<Network facilityName='Los Angeles, CA'>
+		<Neighbor>
+		 <neighborName>San Francisco, CA</neighborName>
+			<distance>382</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Phoenix, AZ</neighborName>
+			<distance>372</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Phoenix, AZ'>
+		<Neighbor>
+		 <neighborName>Los Angeles, CA</neighborName>
+			<distance>372</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Santa Fe, NM</neighborName>
+			<distance>480</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Denver, CO'>
+		<Neighbor>
+		 <neighborName>San Francisco, CA</neighborName>
+			<distance>1249</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Santa Fe, NM</neighborName>
+			<distance>392</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Fargo, ND</neighborName>
+			<distance>889</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>St. Louis, MO</neighborName>
+			<distance>851</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Santa Fe, NM'>
+		<Neighbor>
+		 <neighborName>Phoenix, AZ</neighborName>
+			<distance>480</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Denver, CO</neighborName>
+			<distance>392</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>St. Louis, MO</neighborName>
+			<distance>1032</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Austin, TX</neighborName>
+			<distance>688</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Fargo, ND'>
+		<Neighbor>
+		 <neighborName>Seattle, WA</neighborName>
+			<distance>1426</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Denver, CO</neighborName>
+			<distance>889</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Chicago, IL</neighborName>
+			<distance>643</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Austin, TX'>
+		<Neighbor>
+		 <neighborName>Santa Fe, NM</neighborName>
+			<distance>688</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>St. Louis, MO</neighborName>
+			<distance>825</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>New Orleans, LA</neighborName>
+			<distance>512</distance>
+		</Neighbor>
+	</Network>
+	
+	<Network facilityName='St. Louis, MO'>
+		<Neighbor>
+		 <neighborName>Chicago, IL</neighborName>
+			<distance>297</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Nashville, TN</neighborName>
+			<distance>309</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Austin, TX</neighborName>
+			<distance>825</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Santa Fe, NM</neighborName>
+			<distance>1032</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Denver, CO</neighborName>
+			<distance>851</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Chicago, IL'>
+		<Neighbor>
+		 <neighborName>Fargo, ND</neighborName>
+			<distance>643</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>St. Louis, MO</neighborName>
+			<distance>297</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>New York City, NY</neighborName>
+			<distance>790</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Detroit, MI</neighborName>
+			<distance>282</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='New Orleans, LA'>
+		<Neighbor>
+		 <neighborName>Austin, TX</neighborName>
+			<distance>512</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Nashville, TN</neighborName>
+			<distance>532</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Atlanta, GA</neighborName>
+			<distance>469</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Miami, FL</neighborName>
+			<distance>864</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Nashville, TN'>
+		<Neighbor>
+		 <neighborName>St. Louis, MO</neighborName>
+			<distance>309</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>New Orleans, LA</neighborName>
+			<distance>532</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Norfolk, VA</neighborName>
+			<distance>706</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Detroit, MI'>
+		<Neighbor>
+		 <neighborName>Chicago, IL</neighborName>
+			<distance>282</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>New York City, NY</neighborName>
+			<distance>614</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Boston, MA</neighborName>
+			<distance>719</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Boston, MA'>
+		<Neighbor>
+		 <neighborName>Detroit, MI</neighborName>
+			<distance>719</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>New York City, NY</neighborName>
+			<distance>215</distance>
+		</Neighbor>
+		
+	</Network>
+	<Network facilityName='New York City, NY'>
+		<Neighbor>
+		 <neighborName>Boston, MA</neighborName>
+			<distance>215</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Detroit, MI</neighborName>
+			<distance>614</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Chicago, IL</neighborName>
+			<distance>790</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Norfolk, VA</neighborName>
+			<distance>363</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Norfolk, VA'>
+		<Neighbor>
+		 <neighborName>New York City, NY</neighborName>
+			<distance>363</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Nashville, TN</neighborName>
+			<distance>706</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Atlanta, GA</neighborName>
+			<distance>566</distance>
+		</Neighbor>
+	</Network>
+	<Network facilityName='Atlanta, GA'>
+		<Neighbor>
+		 <neighborName>Norfolk, VA</neighborName>
+			<distance>566</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>New Orleans, LA</neighborName>
+			<distance>469</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>Miami, FL</neighborName>
+			<distance>663</distance>
+		</Neighbor>
+	</Network>
+	
+	<Network facilityName='Miami, FL'>
+		<Neighbor>
+		 <neighborName>Atlanta, GA</neighborName>
+			<distance>663</distance>
+		</Neighbor>
+		<Neighbor>
+		 <neighborName>New Orleans, LA</neighborName>
+			<distance>864</distance>
+		</Neighbor>
+	</Network>
+	
+</NetworkContent>

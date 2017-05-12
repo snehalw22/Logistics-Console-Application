@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemContent>
+	<Item identifier="ABC123">
+		<price>
+			550
+		</price>
+	</Item>
+	<Item identifier="CR2032">
+		<price>
+			240
+		</price>
+	</Item>
+	<Item identifier="CT1928">
+		<price>
+			910
+		</price>
+	</Item>
+	<Item identifier="E241i">
+		<price>
+			10400
+		</price>
+	</Item>
+	<Item identifier="JBL3100">
+		<price>
+			180
+		</price>
+	</Item>
+	<Item identifier="MM35P">
+		<price>
+			1950
+		</price>
+	</Item>
+		<Item identifier="PL132-C">
+		<price>
+			440
+		</price>
+	</Item>
+		<Item identifier="PU238">
+		<price>
+			2200
+		</price>
+	</Item>
+		<Item identifier="RL123A">
+		<price>
+			360
+		</price>
+	</Item>
+		<Item identifier="RTF110">
+		<price>
+			715
+		</price>
+	</Item>
+		<Item identifier="RX100-3">
+		<price>
+			642
+		</price>
+	</Item>
+	<Item identifier="SN-241-L">
+		<price>
+			620
+		</price>
+	</Item>
+	<Item identifier="SR71-D">
+		<price>
+			1600
+		</price>
+	</Item>
+	<Item identifier="XLK200B">
+		<price>
+			820
+		</price>
+	</Item>
+	<Item identifier="XTP202">
+		<price>
+			345
+		</price>
+	</Item>
+	<Item identifier="ZTF109">
+		<price>
+			1100
+		</price>
+	</Item>
+</ItemContent>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShortestPathContent>
+	<ShortestPath>
+		<from>Santa Fe, NM</from>
+		<to>Chicago, IL</to>
+	</ShortestPath>
+	<ShortestPath>
+		<from>Atlanta, GA</from>
+		<to>St. Louis, MO</to>
+	</ShortestPath>
+	<ShortestPath>
+		<from>Seattle, WA</from>
+		<to>Nashville, TN</to>
+	</ShortestPath>
+	<ShortestPath>
+		<from>New York City, N</from>
+		<to>Phoenix, AZ</to>
+	</ShortestPath>
+</ShortestPathContent>

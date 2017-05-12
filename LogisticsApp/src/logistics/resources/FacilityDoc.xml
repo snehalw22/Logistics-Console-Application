@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FaciltyContent>
+
+	<Facility facilityName="Seattle, WA">
+		<processingRate>8</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>ABC123</itemId>
+			<quantity>45</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>JBL3100</itemId>
+			<quantity>52</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>PL132-C</itemId>
+			<quantity>4</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>PU238</itemId>
+			<quantity>60</quantity>
+		</Inventory>
+	</Facility>
+
+	<Facility facilityName="San Francisco, CA">
+		<processingRate>12</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>RL123A</itemId>
+			<quantity>40</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>XLK200B</itemId>
+			<quantity>8</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>SR71-D</itemId>
+			<quantity>81</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>CT1928</itemId>
+			<quantity>46</quantity>
+		</Inventory>
+	</Facility>
+
+	<Facility facilityName="Los Angeles, CA">
+		<processingRate>10</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>RX100-3</itemId>
+			<quantity>57</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>JBL3100</itemId>
+			<quantity>60</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>E241i</itemId>
+			<quantity>44</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>XTP202</itemId>
+			<quantity>32</quantity>
+		</Inventory>
+	</Facility>
+
+	<Facility facilityName="Phoenix, AZ">
+		<processingRate>8</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>RX100-3</itemId>
+			<quantity>3</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>SR71-D</itemId>
+			<quantity>55</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>SN-241-L</itemId>
+			<quantity>22</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>ZTF109</itemId>
+			<quantity>54</quantity>
+		</Inventory>
+	</Facility>
+
+	<Facility facilityName="Denver, CO">
+		<processingRate>10</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>ABC123</itemId>
+			<quantity>80</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>RL123A</itemId>
+			<quantity>110</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>RTF110</itemId>
+			<quantity>100</quantity>
+		</Inventory>
+	</Facility>
+
+	<Facility facilityName="Santa Fe, NM">
+		<processingRate>8</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>RX100-3</itemId>
+			<quantity>144</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>CR2032</itemId>
+			<quantity>280</quantity>
+		</Inventory>
+	</Facility>
+
+	<Facility facilityName="Fargo, ND">
+		<processingRate>8</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>ABC123</itemId>
+			<quantity>25</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>JBL3100</itemId>
+			<quantity>32</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>XLK200B</itemId>
+			<quantity>82</quantity>
+		</Inventory>
+	</Facility>
+
+	<Facility facilityName="Austin, TX">
+		<processingRate>10</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>RL123A</itemId>
+			<quantity>66</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>RX100-3</itemId>
+			<quantity>35</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>SN-241-L</itemId>
+			<quantity>35</quantity>
+		</Inventory>
+
+	</Facility>
+	<Facility facilityName="St. Louis, MO">
+		<processingRate>12</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>ABC123</itemId>
+			<quantity>70</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>SR71-D</itemId>
+			<quantity>45</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>PU238</itemId>
+			<quantity>82</quantity>
+		</Inventory>
+	</Facility>
+	<Facility facilityName="Chicago, IL">
+		<processingRate>10</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>ABC123</itemId>
+			<quantity>60</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>E241i</itemId>
+			<quantity>64</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>CT1928</itemId>
+			<quantity>20</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>RTF110</itemId>
+			<quantity>110</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>XTP202</itemId>
+			<quantity>20</quantity>
+		</Inventory>
+	</Facility>
+	<Facility facilityName="New Orleans, LA">
+		<processingRate>10</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>MM35P</itemId>
+			<quantity>100</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>PU238</itemId>
+			<quantity>49</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>ZTF109</itemId>
+			<quantity>120</quantity>
+		</Inventory>
+	</Facility>
+	<Facility facilityName="Nashville, TN">
+		<processingRate>8</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>RX100-3</itemId>
+			<quantity>78</quantity>
+		</Inventory>
+		
+		<Inventory>
+			<itemId>XLK200B</itemId>
+			<quantity>28</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>CR2032</itemId>
+			<quantity>366</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>SN-241-L</itemId>
+			<quantity>16</quantity>
+		</Inventory>
+	</Facility>
+	<Facility facilityName="Detroit, MI">
+		<processingRate>10</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>JBL3100</itemId>
+			<quantity>117</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>SR71-D</itemId>
+			<quantity>8</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>CT1928</itemId>
+			<quantity>72</quantity>
+		</Inventory>
+	</Facility>
+	<Facility facilityName="Boston, MA">
+		<processingRate>10</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>MM35P</itemId>
+			<quantity>47</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>PL132-C</itemId>
+			<quantity>3</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>CT1928</itemId>
+			<quantity>65</quantity>
+		</Inventory>
+	</Facility>
+	<Facility facilityName="New York City, NY">
+		<processingRate>14</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>RL123A</itemId>
+			<quantity>12</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>CR2032</itemId>
+			<quantity>132</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>E241i</itemId>
+			<quantity>72</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>ZTF109</itemId>
+			<quantity>28</quantity>
+		</Inventory>
+
+	</Facility>
+	<Facility facilityName="Norfolk, VA">
+		<processingRate>10</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>MM35P</itemId>
+			<quantity>66</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>RL123A</itemId>
+			<quantity>50</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>XLK200B</itemId>
+			<quantity>14</quantity>
+		</Inventory>
+	</Facility>
+	<Facility facilityName="Atlanta, GA">
+		<processingRate>10</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>RX100-3</itemId>
+			<quantity>90</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>E241i</itemId>
+			<quantity>32</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>PU238</itemId>
+			<quantity>120</quantity>
+		</Inventory>
+	</Facility>
+	<Facility facilityName="Miami, FL">
+		<processingRate>12</processingRate>
+		<processingCost>300</processingCost>
+		<Inventory>
+			<itemId>MM35P</itemId>
+			<quantity>16</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>JBL3100</itemId>
+			<quantity>44</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>SR71-D</itemId>
+			<quantity>15</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>SN-241-L</itemId>
+			<quantity>28</quantity>
+		</Inventory>
+		<Inventory>
+			<itemId>XTP202</itemId>
+			<quantity>88</quantity>
+		</Inventory>
+
+	</Facility>
+</FaciltyContent>
